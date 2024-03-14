@@ -2,7 +2,7 @@
 Thank you for visiting my GitHub profile.
 I hope you will enjoy some of my projects.
 
-#### My name is Emilia. I am a big ✨Data Enthusiast✨. 
+#### My name is Emilia. I am a big ✨Data Enthusiast✨ and Programming Geek. 
 My data journay has started since 2005 when I chose my studies. 
 
 🌱 I’m currently learning PowerBI and counstantly refreshing my knowledge in tools such as: Python, SQL, Tableau, MS Excel. 
@@ -13,7 +13,7 @@ My data journay has started since 2005 when I chose my studies.
 * I am learning Spanish language.
 
 📫 How to reach me:
-* Linkedin: https://www.linkedin.com/feed/
+* LinkedIn: https://www.linkedin.com/in/emilia-galach-745027109/
 * Kaggle: https://www.kaggle.com/emiliagalach
 <!--
 **
