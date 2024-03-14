@@ -3,7 +3,7 @@ Thank you for visiting my GitHub profile.
 I hope you will enjoy some of my projects.
 
 #### My name is Emilia. I am a big ✨Data Enthusiast✨ and Programming Geek. 
-My data journay has started since 2005 when I chose my studies. 
+My data journey has started since 2005 when I choose my studies.
 
 🌱 I’m currently learning PowerBI and counstantly refreshing my knowledge in tools such as: Python, SQL, Tableau, MS Excel. 
  
