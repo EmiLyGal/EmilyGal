@@ -7,6 +7,11 @@ I hope you will enjoy some of my projects.
 🌱 I’m currently learning PowerBI, Data Engineering and much more.
 
 My mainly used tools:  Python, SQL, Tableau, MS Excel. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,mysql,py" />
+  </a>
+</p>
  
 ⚡ Fun fact: 
 * eventhough I have 2 children I did my Diploma in Data Analytics for business in my second langauge. It would have never been possible if not big support of my husband,
