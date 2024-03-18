@@ -5,20 +5,23 @@
 
 <h3> My name is Emilia. I am a big ✨Data Enthusiast✨ and Programming Geek. </h3>
 <div>
-I have completed:
+&#128507 I have accomplished:
 <ul>
-	<li>present * several courses on DataCamp 
-	<li>2024 * Google Data Analytics Profesional Certificate (tools used: BigQuery, R, Tableau, SQL)</li> 
-	<li>2023 * Diploma in Data Analytics in Business (tools used: Python, Jupiter Notebook, SQL, MySQL, Tableau, MS Office, Google Colab)  </li>
+	<li>present * several courses at DataCamp
+	<li>2024 * Google Data Analytics Profesional Certificate (tools used: MS Excel, BigQuery, R, Tableau, SQL)</li> 
+	<li>2023 * <b>Bachelor Diploma in Data Analytics in Business</b> 
+		(tools used: Python, Jupiter Notebook, SQL, MySQL, Tableau, MS Office, Google Colab)  </li>
 	<li>2021 * MTA: Database Fundamentals (SQL Microsoft Server)</li>
+	<li>2021 * Microsoft Office Specialist Excel</li>
+	<li>2016 * Numeracy and Statistics: Interpreting & Analysing Information</li>
+	<li>2010 * <b>MSc in Management & Marketing: Quantitative Methods in Management</b> (tools used: MS Excel, gretl) </li>
 </ul>	
-🌱 I’m currently learning PowerBI, Data Engineering and much more.
+<br>
+🌱 I’m currently learning Power BI, Data Engineering... My to-do list is incredibly long.
 </div>
-
-
-
+<br>
 <div align="left">
-I use mainly tools and technologies such as:  
+&#128640 I use mainly tools and technologies such as:  
 	<div align="center">
  		<code><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code>
   		<code><img width="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/teams.png" alt="MS SharePoint" title="MS SharePoint"/></code>
@@ -35,39 +38,35 @@ I use mainly tools and technologies such as:
 		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
 	</div>
 </div>
-		
+<br>		
 <div align= "left">
 ⚡ Fun fact: 
 <ul>
-<li>eventhough I have 2 children I completed a Diploma in Data Analytics in Business in my second langauge. It would have never been possible if not big support of my husband,</li>
+<li>even though I have 2 children I completed the Diploma in Data Analytics in Business with distinction (in my second language). It would have never been possible if not big support of my husband,</li>
 <li>I have just started to practice Brazilian Jiu Jitsu,</li> 
-<li>I am learning Spanish language.</li>
+<li>I am learning Spanish.</li>
 </ul>
 </div>
-📫 How to reach me:
+<br>
+<div align = "centre">
+	Thank you for visiting my GitHub profile.
+	I hope you will enjoy some of my projects. 
+	<br>
+	<br>
+	<div>📫 How to reach me:
+		<p align="centre">
+		<a href="https://www.linkedin.com/in/emilia-galach-745027109/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		</a>
+		</p>	
+		<p align="centre">
+		 <a href = "https://www.kaggle.com/emiliagalach">
+		<img src= "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+		  </a>
+		</p>
+	</div>
+</div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/emilia-galach-745027109/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
- <a href = "https://www.kaggle.com/emiliagalach">
-    <img src= "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  </a>
-</p> 
-Thank you for visiting my GitHub profile.
-I hope you will enjoy some of my projects.
  </body>
-<!--
-**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
 
--->
