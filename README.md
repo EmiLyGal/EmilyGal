@@ -1,8 +1,7 @@
 
 <body>
 <h2> Hi there 👋</h2>
-Thank you for visiting my GitHub profile.
-I hope you will enjoy some of my projects.
+
 
 #### My name is Emilia. I am a big ✨Data Enthusiast✨ and Programming Geek. 
 
@@ -47,6 +46,8 @@ I use mainly tools and technologies such as:
     <img src= "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
 </p> 
+Thank you for visiting my GitHub profile.
+I hope you will enjoy some of my projects.
  </body>
 <!--
 **
