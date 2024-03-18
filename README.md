@@ -7,17 +7,16 @@ I hope you will enjoy some of my projects.
 #### My name is Emilia. I am a big ✨Data Enthusiast✨ and Programming Geek. 
 
 🌱 I’m currently learning PowerBI, Data Engineering and much more.
-
+<div align="left">
 I use mainly tools and technologies such as:  
-<div align="center">
-	<div>
+	<div align="center">
  		<code><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code>
   		<code><img width="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/teams.png" alt="MS SharePoint" title="MS SharePoint"/></code>
   		<code><img width="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/sharepoint.png" alt="MS SharePoint" title="MS SharePoint"/></code>
   		<code><img width="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/outlook.png?raw=true" alt="MS Outlook" title="MS Outlook"/></code>
   		<code><img width="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true"  alt="MS Excel" title="MS Excel"/></code>
 	<div>
-	<div>
+	<div align="center">
 		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
