@@ -20,8 +20,8 @@
 🌱 I’m currently learning Power BI, Data Engineering... My to-do list is incredibly long.
 </div>
 <br>
-<div align="left">
-&#128640 I use mainly tools and technologies such as:  
+<div align="center">
+<h2>&#128640 LANGUAGES & TOOLS </h2>
 	<div align="center">
  		<code><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code>
   		<code><img width="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/teams.png" alt="MS SharePoint" title="MS SharePoint"/></code>
@@ -40,7 +40,7 @@
 </div>
 <br>		
 <div align= "left">
-⚡ Fun fact: 
+<h2 align = "center">⚡ FUN FACTS: </h2>
 <ul>
 <li>even though I have 2 children I completed the Diploma in Data Analytics in Business with distinction (in my second language). It would have never been possible if not big support of my husband,</li>
 <li>I have just started to practice Brazilian Jiu Jitsu,</li> 
@@ -53,7 +53,7 @@
 	I hope you will enjoy some of my projects. 
 	<br>
 	<br>
-	<div>📫 How to reach me:
+	<div> <h2>📫 CONNECT WITH ME:</h2>
 		<p align="centre">
 		<a href="https://www.linkedin.com/in/emilia-galach-745027109/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
