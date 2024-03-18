@@ -3,9 +3,20 @@
 <h2> Hi there 👋</h2>
 
 
-#### My name is Emilia. I am a big ✨Data Enthusiast✨ and Programming Geek. 
-
+<h3> My name is Emilia. I am a big ✨Data Enthusiast✨ and Programming Geek. </h3>
+<div>
+I have completed:
+<ul>
+	<li>present * several courses on DataCamp 
+	<li>2024 * Google Data Analytics Profesional Certificate (tools used: BigQuery, R, Tableau, SQL)</li> 
+	<li>2023 * Diploma in Data Analytics in Business (tools used: Python, Jupiter Notebook, SQL, MySQL, Tableau, MS Office, Google Colab)  </li>
+	<li>2021 * MTA: Database Fundamentals (SQL Microsoft Server)</li>
+</ul>	
 🌱 I’m currently learning PowerBI, Data Engineering and much more.
+</div>
+
+
+
 <div align="left">
 I use mainly tools and technologies such as:  
 	<div align="center">
