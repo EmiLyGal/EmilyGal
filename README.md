@@ -17,7 +17,7 @@
 	<li>2010 * <b>MSc in Management & Marketing: Quantitative Methods in Management</b> (tools used: MS Excel, gretl) </li>
 </ul>	
 <br>
-🌱 I’m currently learning Power BI, Data Engineering... My to-do list is incredibly long.
+🌱 I’m currently exploring Power BI, Data Engineering... My to-do list is incredibly long.
 </div>
 <br>
 <div align="center">
